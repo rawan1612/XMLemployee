@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><root>
+    <employee>
+<name>rawan</name>
+<phones>
+<phone type="mobile">01228077808</phone>
+<phone type="home">3597587</phone>
+<phone type="work">2276172</phone>
+
+</phones>
+<addresses>
+
+<address>
+<street>farag shoaib</street>
+<Building_Number>8</Building_Number>
+<Region>victoria</Region>
+<City>alexandria</City>
+<Country>alexandria</Country>
+</address>
+
+<address>
+<street>awel makram</street>
+<Building_Number>4</Building_Number>
+<Region>nasr city</Region>
+<City>cairo</City>
+<Country>cairo</Country>
+</address>
+
+</addresses>
+<email>rbahnasy98@gmail.com</email>
+
+</employee>
+    <employee>
+<name>noor</name>
+<phones>
+<phone type="mobile">01228030177</phone>
+<phone type="home">3597587</phone>
+<phone type="work">2276172</phone>
+
+</phones>
+<addresses>
+
+<address>
+<street>awel makram</street>
+<Building_Number>4</Building_Number>
+<Region>nasr city</Region>
+<City>cairo</City>
+<Country>cairo</Country>
+</address>
+
+</addresses>
+<email>nona@gmail.com</email>
+
+</employee>
+<employee><name>kareem</name><phones><phone type="mobile">88</phone><phone type="home">34</phone><phone type="work">55555</phone></phones><addresses><address><street>hh</street><Building_Number>8</Building_Number><Region>uu</Region><City>aa</City><Country>aa</Country></address></addresses><email/></employee><employee><name>fathia</name><phones><phone type="mobile">01228063500</phone><phone type="home">3597587</phone><phone type="work"/></phones><addresses><address><street>farag</street><Building_Number>6</Building_Number><Region>awel elmontaza</Region><City>alex</City><Country>alex</Country></address></addresses><email>fathia@gmail.com</email></employee><employee><name>hello</name><phones><phone type="mobile">1222222</phone><phone type="home"/><phone type="work"/></phones><addresses><address><street/><Building_Number/><Region/><City/><Country/></address></addresses><email/></employee></root>
